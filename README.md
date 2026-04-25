@@ -1,3 +1,4 @@
+
 # Web_Magzasi_Denemesi
 
 # SB Admin E-Mağza
@@ -7,19 +8,31 @@ Bu proje, SB Admin şablonunun bir e-ticaret platformuna dönüştürülmüş ha
 ---
 
 
----
 
+https://github.com/user-attachments/assets/3d5eefa1-5b94-4a79-9bfe-70e5274a7b1c
 
----
-
-
----
 
 
 ---
 
 
+<img width="1919" height="1079" alt="Ekran görüntüsü 2026-04-25 140024" src="https://github.com/user-attachments/assets/c1602531-d2b1-4cbc-9efa-1691686b0f51" />
+
+
 ---
+
+
+<img width="1919" height="1079" alt="Ekran görüntüsü 2026-04-25 140031" src="https://github.com/user-attachments/assets/afaf6e37-96ae-4e7f-b5e7-8e4f6a712e77" />
+
+
+---
+
+
+<img width="1919" height="1079" alt="Ekran görüntüsü 2026-04-25 140041" src="https://github.com/user-attachments/assets/4da43e8c-0f4f-40e7-acfd-8c183b89ab04" />
+
+
+---
+
 ## 🛠️ Özellikler
 
 * **Kullanıcı İşlemleri:** Giriş, Kayıt ve Şifre Yenileme sayfaları.
