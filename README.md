@@ -1,6 +1,6 @@
 # Web_Magzasi_Denemesi
 
-# SB Admin E-Commerce UI
+# SB Admin E-Magza
 
 Bu proje, SB Admin şablonunun bir e-ticaret platformuna dönüştürülmüş halidir. Yönetim paneli bileşenleri kullanılarak; alışveriş akışı, kullanıcı paneli ve ödeme sayfaları tasarlanmıştır.
 
